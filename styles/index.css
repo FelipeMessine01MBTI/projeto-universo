@@ -31,5 +31,10 @@ header {
             color: #C4C4CC;
             text-decoration: none;
         }
+
+        .ativa {
+            color: #FFF;
+            font-weight: 700;
+        }
     }
 }
