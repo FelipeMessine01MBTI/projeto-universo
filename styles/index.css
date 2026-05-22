@@ -38,3 +38,31 @@ header {
         }
     }
 }
+
+main {
+    width: fit-content;
+    margin-inline: auto;
+    margin-top: 220px;
+
+    h1 {
+        font-size: 48px;
+        color: #e1e1e6;
+        line-height: 125%;
+        margin-bottom: 24px;
+    }
+
+    a {
+        border: 2px solid #FFF;
+        display: block;
+        width: fit-content;
+        margin-inline: auto;
+        padding: 12px 32px;
+        border-radius: 5px;
+        color: #FFF;
+        text-decoration: none;
+        font-weight: 700;
+        line-height: 24px;
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+}
