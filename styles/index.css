@@ -11,19 +11,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 
-    height: 100vh;
-}
-
-header {
-    height: 122px;
-    padding-inline: 72px;
-    display: flex;
-    align-items: center;
-    gap: 46px;
-
-    ul {
-        display: flex;
-        gap: 46px;
+    hei
         list-style: none;
 
         a {
